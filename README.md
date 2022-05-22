@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<!--
-**juancr5/juancr5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**juancr5/juancr5** is a is Front-End Web Developer ✨ Specialized in React.js✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
